@@ -7,5 +7,5 @@ color:
 
 # Font Families
 font:
-  primary: 'Montserrat,Georgia, "Helvetica Neue",Helvetica,Arial,sans-serif'
+  primary: 'Montserrat,Georgia,Share, "Helvetica Neue",Helvetica,Arial,sans-serif'
   secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
