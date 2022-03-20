@@ -38,7 +38,10 @@ people:
       
 - name: Mindy Mohammed  
   pic: 4
-  position: Data Scientist 
+  position: Data Scientist
+  social: 
+    - title: mail
+      url: mindy.moh@gmail.com
 
   
 
