@@ -279,16 +279,16 @@ header {
 }
 
 avideo {
-  width: 85%;
-  height: 75%;
+  width: auto;
+  height: auto;
   position: absolute;
   top: 0;
   left: 0;
 }
 
 .video-wrapper {
-  width: 300px;
-  height: 300px;
+  width: 1440px;
+  height: 900px;
   position: relative;
   overflow: hidden;
   text-align: center;
