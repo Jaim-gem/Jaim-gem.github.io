@@ -1,6 +1,6 @@
 ---
 title: Internet of Things 
-subtitle: All ages | Child-friendly
+subtitle: Teens | Adults
 layout: default
 modal-id: 3
 date: 2014-07-16
