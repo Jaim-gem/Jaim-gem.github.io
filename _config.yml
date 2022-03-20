@@ -13,12 +13,10 @@ people:
   pic: 1
   position: Data Scientist
   social:
-    - title: twitter
-      url: #
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/kaveer.bachoo
+    - title: instagram 
+      url: https://www.instagram.com/kaveerbachoo/
 
 - name: Jaimie Greasley
   pic: 2
@@ -41,13 +39,7 @@ people:
 - name: Mindy Mohammed  
   pic: 4
   position: Data Scientist 
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+
   
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
