@@ -281,11 +281,21 @@ header {
 avideo {
   width: 85%;
   height: 75%;
-  position: fixed;
+  position: absolute;
   top: 0;
   left: 0;
 }
 
+.video-wrapper {
+  width: 300px;
+  height: 300px;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 
 header .intro-text {
     padding-top: 100px;
@@ -347,7 +357,7 @@ section h3.section-subheading {
     margin-bottom: 75px;
     text-transform: none;
     font-family: {{ site.data.template.font.secondary }};
-    font-size: 25px;
+    font-size: 20px;
     font-style: italic;
     font-weight: 400;
 }
