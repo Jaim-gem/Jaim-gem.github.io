@@ -4,8 +4,8 @@ subtitle: Teens | Adults
 layout: default
 modal-id: 3
 date: 2014-07-16
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: diveiniot.png
+thumbnail: diveiniot.mp4
 alt: image-alt
 project-date: April 2014
 client: Jodhan Medina & Kaveer Bachoo
