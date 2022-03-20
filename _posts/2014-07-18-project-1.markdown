@@ -8,8 +8,8 @@ img: diveinml.png
 thumbnail: diveinml.mp4
 alt: image-alt
 project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Get started on learning about ML & AI with Mindy Mohammed.
+client: Mindy Mohammed
+category: ML & AI
+description: Get started on learning about ML & AI. 
 
 ---
