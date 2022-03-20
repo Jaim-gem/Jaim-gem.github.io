@@ -277,7 +277,11 @@ header {
     -o-background-size: cover;
 }
 
-avideo {
+#avideo {
+  object-fit: cover;
+  height: 100%;
+  width: 100%;
+    
   position: absolute;
   top: 0;
   left: 0;
@@ -288,8 +292,8 @@ avideo {
   be relative to this element */
   position: relative;
 
-  width: 400px;
-  height: 200px;
+  width: 1800px;
+  height: 800px;
 
   /* Will not allow the video to overflow the 
   container */
