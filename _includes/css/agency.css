@@ -279,7 +279,6 @@ header {
 }
 
 avideo {
-  object-fit: cover;
   width: 85%;
   height: 75%;
   position: fixed;
