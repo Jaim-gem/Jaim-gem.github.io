@@ -10,7 +10,7 @@ thumbnail: diveiniot.mp4
 alt: image-alt
 project-date: April 2014
 client: Jodhan Medina & Kaveer Bachoo
-category: IoT 
+category: Internet of Things
 description: What is Internet of Things (IoT)? Let's find out.  
 
 ---
