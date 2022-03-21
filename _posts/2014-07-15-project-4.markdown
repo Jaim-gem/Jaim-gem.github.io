@@ -1,6 +1,6 @@
 ---
-title: Quantum Computing
-subtitle: Teens | Adults - COMING SOON!
+title: Quantum Computing - COMING SOON!
+subtitle: Teens | Adults
 layout: default
 modal-id: 4
 date: 2014-07-15
@@ -10,7 +10,7 @@ thumbnail: diveinquantum.mp4
 alt: image-alt
 project-date: April 2014
 client: Jaimie Greasley
-category: QC
+category: Quantum Computing - COMING SOON!
 description: The Quantum world is strange. Quantum Computing will revolutionize the world. This is a great place to hear how and why!   
 
 ---
