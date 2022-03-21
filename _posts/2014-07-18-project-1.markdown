@@ -10,7 +10,7 @@ thumbnail: diveinml.mp4
 alt: image-alt
 project-date: April 2014
 client: Mindy Mohammed
-category: ML & AI
+category: Machine Learning & Artificial Intelligence
 description: Get started on learning about ML & AI. 
 
 ---
