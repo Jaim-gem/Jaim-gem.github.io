@@ -4,6 +4,7 @@ subtitle: Teens | Adults
 layout: default
 modal-id: 3
 date: 2014-07-16
+lnk: IoT
 img: diveiniot.png
 thumbnail: diveiniot.mp4
 alt: image-alt
