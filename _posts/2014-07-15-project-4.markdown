@@ -4,7 +4,7 @@ subtitle: Teens | Adults - COMING SOON!
 layout: default
 modal-id: 4
 date: 2014-07-15
-lnk: QC
+lnk: qc
 img: diveinquantum.png
 thumbnail: diveinquantum.mp4
 alt: image-alt
