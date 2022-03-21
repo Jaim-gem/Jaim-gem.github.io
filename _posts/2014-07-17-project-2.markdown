@@ -10,7 +10,7 @@ thumbnail: diveinquantumkids.mp4
 alt: image-alt
 project-date: April 2014
 client: Jaimie Greasley
-category: QC for Kids
+category: Quantum Computing for Kids - COMING SOON!
 description: Come hear about the strange world of Quantum Mechanics and learn what Quantum Computing is about.
 
 ---
