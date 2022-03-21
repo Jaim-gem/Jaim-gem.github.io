@@ -1,6 +1,6 @@
 ---
 title: Quantum Computing
-subtitle: Teens | Adults
+subtitle: Teens | Adults - COMING SOON!
 layout: default
 modal-id: 4
 date: 2014-07-15
