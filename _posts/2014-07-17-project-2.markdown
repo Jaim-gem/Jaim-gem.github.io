@@ -1,6 +1,6 @@
 ---
 title: Quantum Computing for Kids
-subtitle: Children
+subtitle: Children - COMING SOON
 layout: default
 modal-id: 2
 date: 2014-07-17
