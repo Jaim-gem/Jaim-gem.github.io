@@ -4,7 +4,7 @@ subtitle: All ages | Child-friendly
 layout: default
 modal-id: 1
 date: 2014-07-18
-lnk: ML
+lnk: ml
 img: diveinml.png
 thumbnail: diveinml.mp4
 alt: image-alt
