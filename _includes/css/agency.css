@@ -279,6 +279,7 @@ header {
 }
 
 #avideo {
+  object-fit: fill;  
   position: fixed;
   top: 0;
   left: 0;
