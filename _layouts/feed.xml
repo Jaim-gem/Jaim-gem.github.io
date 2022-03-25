@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <image>
-    <url>https://raw.githubusercontent.com/Jaim-gem/Jaim-gem.github.io/0b23b5e59265697a49f87cc140b11fc3b2ea1c8d/img/site_image.jpg</url>
-    <title>World of Tech</title>
-    <link>{{ site.url }}{{ site.baseurl }}</link>
-    </image>
     <title>{{ site.title | xml_escape }}</title>
     <description>{{ site.description | xml_escape }}</description>
     <link>{{ site.url }}{{ site.baseurl }}/</link>
