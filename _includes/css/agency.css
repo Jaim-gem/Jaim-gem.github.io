@@ -279,7 +279,7 @@ header {
 }
 
 #avideo {
-  object-fit: contain; 
+  object-fit: cover; 
   position: fixed;
   top: 0;
   left: 0;
