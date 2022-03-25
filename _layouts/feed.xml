@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <image>
-    <url>https://github.com/Jaim-gem/Jaim-gem.github.io/blob/0b23b5e59265697a49f87cc140b11fc3b2ea1c8d/img/site_image.jpg</url>
+    <url>https://raw.githubusercontent.com/Jaim-gem/Jaim-gem.github.io/0b23b5e59265697a49f87cc140b11fc3b2ea1c8d/img/site_image.jpg</url>
     <title>World of Tech</title>
     <link>{{ site.url }}{{ site.baseurl }}</link>
     </image>
