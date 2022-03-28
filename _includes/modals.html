@@ -14,8 +14,8 @@
                         <div class="modal-body">
                             <h2>{{ post.title }}</h2>
                             <hr class="star-primary">
-                            <a href="{{ post.lnk }}/">
-                              <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                            <a href="{{ post.lnk }}" target="_blank">
+                              <img src="img/portfolio/{{ post.img }}" style="height:100%; width:100%" class="img-responsive img-centered" alt="{{ post.alt }}">
                             </a>
                             <p>{{ post.description }}</p>
                             <ul class="list-inline item-details">
@@ -24,7 +24,7 @@
                                     </strong>
                                 </li>
                                 <li>Start Exploring Now:
-                                    <strong><a href="{{ post.lnk }}/">{{ post.category }}</a>
+                                    <strong><a href="{{ post.lnk }}" target="_blank">{{ post.category }}</a>
                                     </strong>
                                 </li>
                             </ul>
