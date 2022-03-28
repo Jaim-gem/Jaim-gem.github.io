@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Snickdx/Jaim-gem.github.io.git"
+    "url": "git+https://github.com/Jaim-gem/Jaim-gem.github.io.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Snickdx/Jaim-gem.github.io/issues"
+    "url": "https://github.com/Jaim-gem/Jaim-gem.github.io/issues"
   },
-  "homepage": "https://github.com/Snickdx/Jaim-gem.github.io#readme"
+  "homepage": "https://github.com/Jaim-gem/Jaim-gem.github.io#readme"
 }
