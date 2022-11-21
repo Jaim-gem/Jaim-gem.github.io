@@ -3,6 +3,7 @@
 
 Landing page: http://worldoftech.lab.tt
 
+In _posts_ folder are the jupyter book launch modals, their descriptions and links to images and looped videos. 
 
 
 
