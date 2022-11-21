@@ -11,6 +11,6 @@ alt: image-alt
 project-date: April 2014
 client: Mindy Mohammed
 category: Machine Learning & Artificial Intelligence
-description: Get started on learning about ML & AI. 
+description: Get started on learning about ML and AI. 
 
 ---
