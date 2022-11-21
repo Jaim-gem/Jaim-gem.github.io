@@ -11,6 +11,6 @@ alt: image-alt
 project-date: April 2014
 client: Jodhan Medina & Kaveer Bachoo
 category: Internet of Things
-description: What is Internet of Things (IoT)? Let's find out.  
+description: What is the Internet of Things? Let's find out.  
 
 ---
