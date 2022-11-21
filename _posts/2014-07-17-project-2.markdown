@@ -11,6 +11,6 @@ alt: image-alt
 project-date: April 2014
 client: Jaimie Greasley
 category: Quantum Computing for Kids
-description: Come hear about the strange world of Quantum Mechanics and learn what Quantum Computing is about.
+description: Come hear about the strange Quantum world and learn what Quantum Computing is about!
 
 ---
