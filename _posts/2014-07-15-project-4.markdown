@@ -11,6 +11,6 @@ alt: image-alt
 project-date: April 2014
 client: Jaimie Greasley
 category: Quantum Computing
-description: The Quantum world is strange. Quantum Computing will revolutionize the world. This is a great place to hear how and why!   
+description: The Quantum world is strange, yet Quantum Computing could revolutionize the world. Here's how and why!   
 
 ---
