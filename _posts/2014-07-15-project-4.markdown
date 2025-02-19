@@ -4,7 +4,7 @@ subtitle: Teens | Adults
 layout: default
 modal-id: 4
 date: 2014-07-15
-lnk: http://worldoftech.lab.tt/qc/introqc.html
+lnk:  https://jaim-gem.github.io/qc/
 img: diveinquantum.png
 thumbnail: diveinquantum.mp4
 alt: image-alt
