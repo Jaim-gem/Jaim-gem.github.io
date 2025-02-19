@@ -4,7 +4,7 @@ subtitle: Children
 layout: default
 modal-id: 2
 date: 2014-07-17
-lnk: http://worldoftech.lab.tt/qcforkids/introqckids.html
+lnk: https://jaim-gem.github.io/qcforkids
 img: diveinquantumkids.png
 thumbnail: diveinquantumkids.mp4
 alt: image-alt
